@@ -10,7 +10,7 @@
 
 ## ** Project Overview**
 
-This project uses the popular data visualization tool, Tableau, to create an interactive dashboard using the Superstore dataset. The dashboard provides insights into average sales, average profit, and average discount, as well as top-performing product categories and segments. Additionally, the dashboard includes a geographical map showcasing average profit per state in the US and a donut chart highlighting product categories and their total profit.You can also check my youtube link attached to this readme file for my dashboard explanation.
+This project uses the popular data visualization tool, Tableau, to create an interactive dashboard using the Superstore dataset. The dashboard provides insights into average sales, average profit, and average discount, as well as top-performing product categories and segments. Additionally, the dashboard includes a geographical map showcasing average profit per state in the US and a donut chart highlighting product categories and their total profit.
 
 **Table of Contents**
 
