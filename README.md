@@ -1,6 +1,6 @@
-# TASK 02 - PRODIGY DATA SCIENCE INTERNSIP PROJECT
 
-### EXPLORATORY DATA ANALYSIS - RETAIL USING TABLEAU
+
+## EXPLORATORY DATA ANALYSIS - RETAIL USING TABLEAU
 ##### Dataset : Sample Superstore dataset
 
 #### Visualization tool : Tableau Publeau
