@@ -62,7 +62,7 @@ The dashboard is divided into six sections, each showcasing a different aspect o
 
 The dashboard includes the following visualizations and insights:
 
-![Superstore Dashboard](https://github.com/user-attachments/assets/8a265527-b0b1-4ec8-b7e4-6c68669d07d4)
+![Screenshot 2024-07-19 224505](https://github.com/user-attachments/assets/732aa0c6-3f6f-4806-b470-743a78ff8ad9)
 
 
 
